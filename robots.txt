@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Pitch preview: pages carry noindex. Do not submit this preview to search engines.
